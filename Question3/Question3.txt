@@ -1,0 +1,1 @@
+(Visualization) WaniKani is a Japanese learning website with difficulty levels for each kanji character. Do the frequency of use, number of strokes, and grade levels have some relationships with the WaniKani levels?
