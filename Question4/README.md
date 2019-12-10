@@ -6,6 +6,8 @@ Taking into account the student’s progress and goals, what is the best set of 
 
 ## Strategy
 
+**Dependencies: Need "cleaned_link.csv", result from Question 1**
+
 1. Load the information about the frequently used Kanjis and difficulty levels from Question 1.
 2. Compare them to try to determine the optimal learning sequence to follow to learn how to read a given source.
 
