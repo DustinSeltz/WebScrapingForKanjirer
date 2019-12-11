@@ -1,8 +1,8 @@
 import pandas as pd
-from .web.jisho import Jisho
-from .web.wanikani import Wanikani
+from Question1.jisho_and_wanikani.web.jisho import Jisho
+from Question1.jisho_and_wanikani.web.wanikani import Wanikani
 import time
-from .func.func import write_csv
+from Question1.jisho_and_wanikani.func.func import write_csv
 
 
 def run(web, path, list_length):

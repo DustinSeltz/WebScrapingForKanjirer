@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from utils.decorator import clean
+from Question1.jisho_and_wanikani.utils.decorator import clean
 import re
 
 
