@@ -1,11 +1,17 @@
 Running order:
-TODO
+
+Run the questions 1 through 4 in order, each question has its own README.md with order information. 
+
+Information about questions and results are in "CSE 184 final project step 3.pdf"
 
 Contributions:
-TODO
 
-PDF versions of files, and image versions of inline visualizations:
-TODO
+contributions.pdf
 
 Website:
-http://3.84.236.24:3305/
+
+http://awesomekanji.cf/
+
+GitHub:
+
+https://github.com/DustinSeltz/WebScrapingForKanjirer
